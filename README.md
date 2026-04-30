@@ -9,7 +9,7 @@ This project is a .NET 8 Web API for managing products and categories with busin
 - Stock-based "IsLive" validation
 - Filter endpoint (search + stock range)
 
-## 🛠 Technologies
+## Technologies
 - ASP.NET Core Web API (.NET 8)
 - Entity Framework Core (InMemory DB)
 
